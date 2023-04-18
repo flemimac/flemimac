@@ -1,6 +1,7 @@
 
-<h3 align="center">Hi, I'am Python delevoper</h3>
-<h3 align="center">I study Python deeply, have experience in Unity, aseprite, blender and photoshop</h3>
+<h2 align="center">Hi, I'am Python delevoper</h2>
+<h3 align="center">I study Python deeply, have experience in Unity, aseprite, blender and photoshop and Lua scripts. I write graphical programs, telegram/discord bots. At the moment I am creating a 2D story game on Unity C#.</h3>
+
 
 #### Work programs:
 
@@ -21,4 +22,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flemimac&show_icons=true&theme=tokyonight)  ![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flemimac&theme=solarized_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flemimac&show_icons=true&theme=solarized-dark)  ![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flemimac&theme=solarized_dark)
+
+
+
+<h4 align='right'>"Duality is inherent in cats. Muscles are hidden under their fluffy fur, powerful intelligence and thought work are hidden under the apparent sleepiness."<h4>
+<h5 align='right'>© Roman Matroskin. Book: Navy Seals. Ratslayer does not pee in sneakers<h5>
