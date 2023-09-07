@@ -26,5 +26,5 @@
 
 
 
-<h4 align='right'>"Duality is inherent in cats. Muscles are hidden under their fluffy fur, powerful intelligence and thought work are hidden under the apparent sleepiness."<h4>
-<h5 align='right'>© Roman Matroskin. Book: Navy Seals. Ratslayer does not pee in sneakers<h5>
+<h4 align='right'>"It is better to be able and not need than to need and not be able"<h4>
+<h5 align='right'>© 715 team<h5>
