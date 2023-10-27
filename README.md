@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi, I'am Python delevoper</h2>
+<h2 align="center">Hi, I'am Alexander</h2>
 <h3 align="center">I study Python deeply, have experience in Unity, aseprite, blender, photoshop and Lua scripts. I write graphical programs, telegram/discord bots. At the moment I am creating a 2D story game on Unity C#.</h3>
 
 
@@ -16,7 +16,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 #### OC:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
