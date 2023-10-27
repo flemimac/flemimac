@@ -2,7 +2,6 @@
 <h2 align="center">Hi, I'am Alexander</h2>
 <h3 align="center">I study Python deeply, have experience in Unity, aseprite, blender, photoshop and Lua scripts. I write graphical programs, telegram/discord bots. At the moment I am creating a 2D story game on Unity C#.</h3>
 
-
 #### Work programs:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -22,8 +21,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flemimac&show_icons=true&theme=solarized-dark)  ![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flemimac&theme=solarized_dark)
-
-
 
 <h4 align='right'>"It is better to be able and not need than to need and not be able"<h4>
 <h5 align='right'>© 715 team<h5>
