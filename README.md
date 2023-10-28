@@ -1,4 +1,6 @@
-<h2 align="center"> </h2>
+
+<h2 align="center">Hi, I'am Alexander</h2>
+<h3 align="center">I study Python deeply, have experience in Unity, aseprite, blender, photoshop and Lua scripts. I write graphical programs, telegram/discord bots. At the moment I am creating a 2D story game on Unity C#.</h3>
 
 #### Work programs:
 
