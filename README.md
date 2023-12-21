@@ -20,4 +20,4 @@
 
 ![GitHub stats 1](https://github-readme-stats.vercel.app/api?username=flemimac&show_icons=true&theme=tokyonight) ![GitHub stats 2](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flemimac&theme=tokyonight)
 
-> "It's better to be able and not need than to need and not be abe" - 715 team
+> "It's better to be able and not need than to need and not be able" - 715 team
